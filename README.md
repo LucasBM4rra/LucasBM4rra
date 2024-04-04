@@ -12,7 +12,7 @@
     <img height=173 align="center" src="https://github-readme-stats.vercel.app/api?username=LucasBM4rra&show_icons=true&theme=highcontrast" />
   </a>
   <a href="https://github.com/LucasBM4rra">
-    <img height=183 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasBM4rra&layout=compact&card_width=320&theme=highcontrast&langs_count=20" />
+    <img height=173 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasBM4rra&layout=compact&card_width=320&theme=highcontrast&langs_count=20" />
   </a> 
 </div>
 
