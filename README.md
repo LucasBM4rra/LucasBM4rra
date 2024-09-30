@@ -1,6 +1,6 @@
 ### Olá! eu sou o Lucas Borges Marra
 
-- 🔭 Atualmente trabalho na área de TI, mais estou com o foco em trabalhar com desenvolvimento
+- 🔭 Atualmente trabalho na área de TI, mas estou com o foco em trabalhar com desenvolvimento
 - 🌱 Estou estudando Html, CSS, JavaScript, React, Lua e Java
 - 📫 Contate-me no email: lucasmarra63@gmail.com
 - 😄 Pronouns: ele/dele
